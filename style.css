@@ -1,0 +1,147 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	clear: both;
+}
+.glery{
+	background-color: cyan;
+}
+.logo img{
+	display: block;
+	height:100px;
+}
+.logo{
+	width : 30%;
+	
+	
+	float: left;
+}
+.menu{
+	width : 70%;
+	float: left;
+
+}
+
+nav ul{
+	list-style: none;
+
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 20px 40px;
+
+}
+nav ul li a{
+	background-color: darkblue;
+	padding: 10px 20px;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+
+header{
+	float: left;
+	width: 100%;
+	position: fixed;
+	top: 00;
+	background-color: grey;
+	align-content: center;
+
+}
+
+.banner{
+ width: 100%;
+ float: left;
+}
+.banner-1{
+ width: 33.33%;
+ height: 910px;
+ float: left;
+ background-color: yellow;
+}
+.banner-2{
+width: 33.33%;
+ height: 910px;
+ float: left;
+ background-color: orange;
+
+}
+.banner-3{
+width: 33.33%;
+ height: 910px;
+ float: left;
+background-color: yellow;
+}
+.banner-c{
+ width: 50%;
+ float: left;
+  background-color: lightblue;
+  height: 110px;
+}
+.banner-i{
+width: 50%;
+float:left;
+height: 110px;
+background-color:cyan;
+}
+.gallery{
+	width: 100%;
+	float: left;
+}
+.gallery1{
+	width: 25%;
+	height: 200px;
+	float: left;
+	background-color: purple;
+}
+.gallery2{
+	width: 25%;
+	height: 200px;
+	float: left;
+	background-color: blue;
+}
+
+.gallery3{
+	width: 25%;
+	height: 200px;
+	float: left;
+	background-color: red;
+}
+
+.gallery4{
+	width: 25%;
+	height: 200px;
+	float: left;
+	background-color:cyan;
+}
+footer{
+	width: 100%;
+	float: left;
+	
+	bottom: 0px;
+}
+.social{
+	
+}
+.social ul{
+	list-style: none;
+}
+.social ul li{
+
+display: inline-block;
+
+margin: 10px 20px;
+}
+.social ul li a{
+	background-color:#161616;
+	color:#fff;
+	padding:5px 10px;
+
+}	
